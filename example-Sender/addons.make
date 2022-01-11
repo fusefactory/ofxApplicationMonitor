@@ -1,0 +1,2 @@
+ofxApplicationMonitor
+ofxOsc
